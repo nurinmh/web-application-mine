@@ -169,60 +169,6 @@ body
 
 <html>
 
-<title>Timetable</title>
-<center>
-
-<body background="background2.jpg">
-<meta name ="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-body
-{
-	margin: 0;
-	font-family; Georgia, serif;
-}
-
-.topnav
-{
-	overflow: hidden;
-	background-color: #BC9E82;
-}
-
-.topnav a
-{
-	float: left;
-	color: #000000;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-.topnav a: hover
-{
-	background-color: #CAB9A7;
-	color: black;
-}
-
-.topnav a.active
-{
-	background-color: #BEA493;
-	color: black;
-}
-</style>
-
-<body>
-
-<div class ="topnav">
-	<a class ="active" href= "index.html">Biography</a>
-	<a href ="timetable.html">Timetable</a>
-	<a href ="galleries.html">Galleries</a>
-	<a href ="download.html">Download</a>
-	<a href ="links.html">Links</a>
-	<a href ="signin.html">Sign-In</a>
-	<a href ="signout.html">Sign-Out</a>
-</div>
-
 <h1><i>My Timetable<i></h1>
 <p>I am currently in Semester 2 of my degree. This is the timetable for this semester (Oct 2023- Feb 2024).</p>
 
@@ -233,61 +179,6 @@ body
 
 <html>
 
-<title>Galleries</title>
-<center>
-
-<body style="background-color:#DFD4C7;">
-
-<meta name ="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-body
-{
-	margin: 0;
-	font-family; Georgia, serif;
-}
-
-.topnav
-{
-	overflow: hidden;
-	background-color: #BC9E82;
-}
-
-.topnav a
-{
-	float: left;
-	color: #000000;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-.topnav a: hover
-{
-	background-color: #CAB9A7;
-	color: black;
-}
-
-.topnav a.active
-{
-	background-color: #BEA493;
-	color: black;
-}
-</style>
-
-<body>
-
-<div class ="topnav">
-	<a class ="active" href= "index.html">Biography</a>
-	<a href ="timetable.html">Timetable</a>
-	<a href ="galleries.html">Galleries</a>
-	<a href ="download.html">Download</a>
-	<a href ="links.html">Links</a>
-	<a href ="signin.html">Sign-In</a>
-	<a href ="signout.html">Sign-Out</a>
-</div>
-
 <h1><i>My Gallery </i></h1>
 
 </center>
@@ -296,61 +187,6 @@ body
 
 
 <html>
-
-<title>Download</title>
-<center>
-
-<body style="background-color:#DFD4C7;">
-
-<meta name ="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-body
-{
-	margin: 0;
-	font-family; Georgia, serif;
-}
-
-.topnav
-{
-	overflow: hidden;
-	background-color: #BC9E82;
-}
-
-.topnav a
-{
-	float: left;
-	color: #000000;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-.topnav a: hover
-{
-	background-color: #CAB9A7;
-	color: black;
-}
-
-.topnav a.active
-{
-	background-color: #BEA493;
-	color: black;
-}
-</style>
-
-<body>
-
-<div class ="topnav">
-	<a class ="active" href= "index.html">Biography</a>
-	<a href ="timetable.html">Timetable</a>
-	<a href ="galleries.html">Galleries</a>
-	<a href ="download.html">Download</a>
-	<a href ="links.html">Links</a>
-	<a href ="signin.html">Sign-In</a>
-	<a href ="signout.html">Sign-Out</a>
-</div>
 
 <h1><i>Academic Calendar Session 1 2023-2024</i></h1>
 <p>You can download the academic calendar session 1 Oct 2023 - Feb 2024.</p>
